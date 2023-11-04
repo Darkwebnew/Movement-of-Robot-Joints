@@ -15,11 +15,6 @@ Visual Components Premium 4.3
 ## Program
 ```python
 
-
-
-
-
-
 ```
 ## Output
 ### 1. Generic Articulated Robot
