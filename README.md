@@ -1,4 +1,4 @@
-![280909384-3838686b-cc2e-4460-9757-75d6f2d5c366](https://github.com/Darkwebnew/Movement-of-Robot-Joints/assets/143114486/86f5fadb-2564-45e9-bdce-f48c28ff9d52)![280909384-3838686b-cc2e-4460-9757-75d6f2d5c366](https://github.com/Darkwebnew/Movement-of-Robot-Joints/assets/143114486/2aab1106-f216-4fb2-9652-6ea5c0fccbed)# Movement-of-Robot-Joints
+# Movement-of-Robot-Joints
 ## Aim:  
 To move and drive the joints of the robot using python API.
 
