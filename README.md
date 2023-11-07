@@ -1,4 +1,4 @@
-# Movement-of-Robot-Joints
+![280909384-3838686b-cc2e-4460-9757-75d6f2d5c366](https://github.com/Darkwebnew/Movement-of-Robot-Joints/assets/143114486/86f5fadb-2564-45e9-bdce-f48c28ff9d52)![280909384-3838686b-cc2e-4460-9757-75d6f2d5c366](https://github.com/Darkwebnew/Movement-of-Robot-Joints/assets/143114486/2aab1106-f216-4fb2-9652-6ea5c0fccbed)# Movement-of-Robot-Joints
 ## Aim:  
 To move and drive the joints of the robot using python API.
 
@@ -26,14 +26,14 @@ delay (5)
 ```
 ## Output
 ### 1. Generic Articulated Robot
-![280909520-d8ffe31e-a088-42b1-a026-87eb1d14a801](https://github.com/Darkwebnew/Movement-of-Robot-Joints/assets/143114486/1c5832be-dfd0-4dd4-9444-96c5e01e23f8)
+![280909325-af92e9ca-b3bb-4f46-8a0a-7e5207b0e76f](https://github.com/Darkwebnew/Movement-of-Robot-Joints/assets/143114486/31417441-9576-4a78-a04a-ebcce4902dfc)
 ### 2. robot.driveJoints(0,0,0,0,0,0)
-![280909488-8b804be2-03cd-432d-99f3-d953001ca00e](https://github.com/Darkwebnew/Movement-of-Robot-Joints/assets/143114486/ef2a6e30-f87c-4df2-935e-9cfb5b06a107)
+![280909384-3838686b-cc2e-4460-9757-75d6f2d5c366](https://github.com/Darkwebnew/Movement-of-Robot-Joints/assets/143114486/9480cdc1-f2d3-4210-abd0-27ace25f3bca)
 ### 3. Movement of Joint1
-![280909438-573a3295-f5c0-4373-90ce-03e1bcf2b798](https://github.com/Darkwebnew/Movement-of-Robot-Joints/assets/143114486/3177fa26-2033-48e4-a8eb-7ead9c711e9d)
+![280909438-573a3295-f5c0-4373-90ce-03e1bcf2b798](https://github.com/Darkwebnew/Movement-of-Robot-Joints/assets/143114486/262b9fde-874c-49c9-8daa-dfc53a509a81)
 ### 3. Movement of Joint2
-![280909384-3838686b-cc2e-4460-9757-75d6f2d5c366](https://github.com/Darkwebnew/Movement-of-Robot-Joints/assets/143114486/5a629638-c63e-4faf-9928-8a6461d6aea3)
+![280909488-8b804be2-03cd-432d-99f3-d953001ca00e](https://github.com/Darkwebnew/Movement-of-Robot-Joints/assets/143114486/c099b932-bf3b-4df3-9ec3-f3c9d28799f4)
 ### 3. Movement of Joint3
-![280909325-af92e9ca-b3bb-4f46-8a0a-7e5207b0e76f](https://github.com/Darkwebnew/Movement-of-Robot-Joints/assets/143114486/4c9f7213-a9c8-4d2f-bfd7-54dbf04763d2)
+![280909520-d8ffe31e-a088-42b1-a026-87eb1d14a801](https://github.com/Darkwebnew/Movement-of-Robot-Joints/assets/143114486/ce203c1f-da82-4d9e-aa80-8c43dd82df81)
 ## Result 
 Thus the different robots joints are moved with the help of python list.
