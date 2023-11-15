@@ -2,15 +2,12 @@
 ## Date: 07.11.2023
 ## Aim:  
 To move and drive the joints of the robot using python API.
-
 ## Equipment’s required:
 Visual Components Premium 4.3
-
 ## Procedure:
 1. 	In the eCatalog panel, Collections view, browse to Models by Type>Robots>Visual Components and then add a Generic Articulated Robot to the 3D world.
 2. 	Click the Modeling tab, and then add a Python Script behaviour. The script editor will open automatically when you add the behaviour.
 3. 	In the script editor, add the code and then compile the code.
-
 ## Program
 ```
 from vcScript import *
@@ -23,7 +20,6 @@ delay(5)
 for i in pos:
 robot.Controller.moveJoint (i[0],i[1])
 delay (5)
-
 ```
 ## Output
 ### 1. Generic Articulated Robot
